@@ -45,4 +45,4 @@
 * **Next Steps:** Implementing a **Time-Series Forecasting** model (like ARIMA or Prophet) to predict next year's growth based on current macro trends.
 
 ---
-*Created by Tianni Chen| 2026 Macro Analysis Series*
+*Created by Tianni Chen / 2026 Macro Analysis Series*
