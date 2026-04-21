@@ -7,6 +7,15 @@
 [](https://data.worldbank.org/)
 [](https://opensource.org/licenses/MIT)
 
+## 🚀 Interactive Demo
+Wanna see the code in action right now? No installation required!
+
+[
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TianniChen/macro-gdp-analysis/blob/main/Analysis.ipynb
+)
+
+---
+
 ## 📌 Project Overview
 
 This project investigates the dynamic relationship between core macroeconomic indicators—**GDP Growth, Inflation, and Unemployment**—across 10 major global economies from 2010 to 2024.
